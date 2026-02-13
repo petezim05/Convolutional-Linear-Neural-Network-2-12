@@ -9,4 +9,4 @@ Otherwise modify as desired.
 change epochs variable to adjust how many training epochs being run through (currently set to 5)
 
 Reminder: gradient descent needs to be rewritten to iterate only after batches, not each datums
-Saved network trained to ~.97 accuracy, but run times could be improved
+Instance was trained to ~.97 accuracy, but run times could be improved
