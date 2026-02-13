@@ -1,5 +1,5 @@
 # Convolutional-Linear-Neural-Network-2-12
-Neural Net using PyTorch with convolutional and linear layers based off of LeNet-5. Hardcoded to access the MNIST database.
+Neural Net using PyTorch with convolutional and linear layers based off of LeNet-5. Hardcoded to train on MNIST handwritten digits dataset
 
 Ensure PyTorch and Numpy are installed
 Uses PyTorch to access the data interpret it
